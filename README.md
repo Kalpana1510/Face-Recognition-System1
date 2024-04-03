@@ -76,7 +76,7 @@ Backend :
     npm start
     ```
 
-4. **The server will be running on [http://localhost:5000](http://localhost:5000) by default.**
+4. **The server will be running on [http://localhost:3000](http://localhost:3000) by default.**
    
    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
