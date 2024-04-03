@@ -1,4 +1,4 @@
-# face-recognition-from-webcam-and-video-sources
+# face-recognition-from-webcam
 Face Recognition from WebCam using Javascript, NodeJS and face-api.js which is a wrapper around TensorFlowJS.
 
 <b>Some of the Major technologies used:</b>
